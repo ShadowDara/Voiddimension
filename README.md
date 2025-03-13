@@ -4,6 +4,7 @@
 
 NOTE:
 - you need be 15 blocks near the value of 0  60 0 in the overworld or void dimension to switch to the other dimension!
+- if you are already in the dimension the teleport will not work and no error message will appear!
 - when you uninstall the datapack, you although need to remove it from the datapack folder!
 - Value cant be 0, atleast must be 1!
 
